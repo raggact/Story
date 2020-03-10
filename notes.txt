@@ -1,0 +1,18 @@
+git init - initialize git
+
+git add . - add file to be tracked
+git commit - commit changed files
+git commit -m "Added new chapters 2 and 3" - same as above but with notes
+git status - 
+git checkout filename - checkout a file and overwrite existing
+git diff filename - see the changes in the current file
+
+
+
+git remote add origin https://github.com/raggact/Story.git  - setup rempte repository
+
+git push -u origin master  - push local repository to github
+
+
+
+
